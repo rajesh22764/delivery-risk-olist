@@ -1,0 +1,57 @@
+date,name,local_name,global,types
+2016-01-01,New Year's Day,Confraternização Universal,True,Public
+2016-02-08,Carnival,Carnaval,True,"Bank,Optional"
+2016-02-09,Carnival,Carnaval,True,"Bank,Optional"
+2016-03-25,Good Friday,Sexta-feira Santa,True,Public
+2016-03-27,Easter Sunday,Domingo de Páscoa,True,Public
+2016-04-21,Tiradentes,Dia de Tiradentes,True,Public
+2016-05-01,Labour Day,Dia do Trabalhador,True,Public
+2016-05-26,Corpus Christi,Corpus Christi,True,Public
+2016-07-09,Constitutionalist Revolution of 1932,Revolução Constitucionalista de 1932,False,Public
+2016-09-07,Independence Day,Dia da Independência,True,Public
+2016-10-12,Our Lady of Aparecida,Nossa Senhora Aparecida,True,Public
+2016-11-02,All Souls' Day,Dia de Finados,True,Public
+2016-11-15,Republic Proclamation Day,Proclamação da República,True,Public
+2016-12-25,Christmas Day,Natal,True,Public
+2017-01-01,New Year's Day,Confraternização Universal,True,Public
+2017-02-27,Carnival,Carnaval,True,"Bank,Optional"
+2017-02-28,Carnival,Carnaval,True,"Bank,Optional"
+2017-04-14,Good Friday,Sexta-feira Santa,True,Public
+2017-04-16,Easter Sunday,Domingo de Páscoa,True,Public
+2017-04-21,Tiradentes,Dia de Tiradentes,True,Public
+2017-05-01,Labour Day,Dia do Trabalhador,True,Public
+2017-06-15,Corpus Christi,Corpus Christi,True,Public
+2017-07-09,Constitutionalist Revolution of 1932,Revolução Constitucionalista de 1932,False,Public
+2017-09-07,Independence Day,Dia da Independência,True,Public
+2017-10-12,Our Lady of Aparecida,Nossa Senhora Aparecida,True,Public
+2017-11-02,All Souls' Day,Dia de Finados,True,Public
+2017-11-15,Republic Proclamation Day,Proclamação da República,True,Public
+2017-12-25,Christmas Day,Natal,True,Public
+2018-01-01,New Year's Day,Confraternização Universal,True,Public
+2018-02-12,Carnival,Carnaval,True,"Bank,Optional"
+2018-02-13,Carnival,Carnaval,True,"Bank,Optional"
+2018-03-30,Good Friday,Sexta-feira Santa,True,Public
+2018-04-01,Easter Sunday,Domingo de Páscoa,True,Public
+2018-04-21,Tiradentes,Dia de Tiradentes,True,Public
+2018-05-01,Labour Day,Dia do Trabalhador,True,Public
+2018-05-31,Corpus Christi,Corpus Christi,True,Public
+2018-07-09,Constitutionalist Revolution of 1932,Revolução Constitucionalista de 1932,False,Public
+2018-09-07,Independence Day,Dia da Independência,True,Public
+2018-10-12,Our Lady of Aparecida,Nossa Senhora Aparecida,True,Public
+2018-11-02,All Souls' Day,Dia de Finados,True,Public
+2018-11-15,Republic Proclamation Day,Proclamação da República,True,Public
+2018-12-25,Christmas Day,Natal,True,Public
+2019-01-01,New Year's Day,Confraternização Universal,True,Public
+2019-03-04,Carnival,Carnaval,True,"Bank,Optional"
+2019-03-05,Carnival,Carnaval,True,"Bank,Optional"
+2019-04-19,Good Friday,Sexta-feira Santa,True,Public
+2019-04-21,Tiradentes,Dia de Tiradentes,True,Public
+2019-04-21,Easter Sunday,Domingo de Páscoa,True,Public
+2019-05-01,Labour Day,Dia do Trabalhador,True,Public
+2019-06-20,Corpus Christi,Corpus Christi,True,Public
+2019-07-09,Constitutionalist Revolution of 1932,Revolução Constitucionalista de 1932,False,Public
+2019-09-07,Independence Day,Dia da Independência,True,Public
+2019-10-12,Our Lady of Aparecida,Nossa Senhora Aparecida,True,Public
+2019-11-02,All Souls' Day,Dia de Finados,True,Public
+2019-11-15,Republic Proclamation Day,Proclamação da República,True,Public
+2019-12-25,Christmas Day,Natal,True,Public

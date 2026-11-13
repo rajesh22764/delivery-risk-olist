@@ -1,0 +1,9 @@
+# data is downloaded/collected by scripts (see README); the trained model and small lookup tables in models/ are tracked
+data/*
+!data/.gitkeep
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+.ipynb_checkpoints/
