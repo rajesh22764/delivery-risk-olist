@@ -1,8 +1,8 @@
-# Core (tested with Python 3.12: pandas 3.1, numpy 2.x, scikit-learn 1.8, lightgbm 4.7)
+# Core (tested with Python 3.12: pandas 3.1, numpy 2.x, scikit-learn 1.9, lightgbm 4.7)
 pandas>=2.2
 numpy>=1.26
 scipy>=1.11
-scikit-learn>=1.4
+scikit-learn==1.9.1   # pinned: the saved model is a pickled pipeline
 lightgbm>=4.0
 matplotlib>=3.8
 pyarrow>=15
